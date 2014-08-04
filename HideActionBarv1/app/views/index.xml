@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<Button id="hideshow" onClick="hideshow">Hide</Button>
+	</Window>
+</Alloy>
