@@ -1,3 +1,3 @@
-# Hiding the ActionBar v2
+# Hiding the ActionBar v1
 
-This example uses a custom theme to disable the ActionBar across the whole app.
+This example uses the Hide() method the the ActionBar property of the Android Activity.
