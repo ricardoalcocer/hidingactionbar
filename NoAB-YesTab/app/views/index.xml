@@ -1,0 +1,14 @@
+<Alloy>
+	<TabGroup>
+		<Tab title="Tab 1">
+			<Window class="container">
+				<Label id="label" onClick="doClick">Hello, World 1</Label>
+			</Window>
+		</Tab>
+		<Tab title="Tab 2">
+			<Window class="container">
+				<Label id="label" onClick="doClick">Hello, World 2</Label>
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>
